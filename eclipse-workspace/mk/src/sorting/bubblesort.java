@@ -1,4 +1,4 @@
-package mk;
+package sorting;
 
 public class bubblesort {
 		void bubbleSort(int arr[])
