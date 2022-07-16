@@ -10,7 +10,7 @@ const Footer = () => {
                     <li>App</li>
                     <li>Analytics</li>
                     <li>Token List</li>
-                    <li>Fiji</li>
+                    <li>DeFi</li>
                 </ul>
             </div>
             <div>
@@ -19,7 +19,7 @@ const Footer = () => {
                     <li>App</li>
                     <li>Analytics</li>
                     <li>Token List</li>
-                    <li>Fiji</li>
+                    <li>DeFi</li>
                 </ul>
             </div>
             <div>
@@ -28,7 +28,7 @@ const Footer = () => {
                     <li>App</li>
                     <li>Analytics</li>
                     <li>Token List</li>
-                    <li>Fiji</li>
+                    <li>DeFi</li>
                 </ul>
             </div>
             <div>
@@ -37,7 +37,7 @@ const Footer = () => {
                     <li>App</li>
                     <li>Analytics</li>
                     <li>Token List</li>
-                    <li>Fiji</li>
+                    <li>DeFi</li>
                 </ul>
             </div>
             <div>
@@ -46,7 +46,7 @@ const Footer = () => {
                     <li>App</li>
                     <li>Analytics</li>
                     <li>Token List</li>
-                    <li>Fiji</li>
+                    <li>DeFi</li>
                 </ul>
             </div>
         </div>
