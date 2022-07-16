@@ -22,7 +22,7 @@ const Hero = () => {
           applications.
         </p>
         <div>
-          <button className='m-2'>Use Fiji</button>
+          <button className='m-2'>Use DeFi</button>
           <button className='m-2'>FAQ</button>
         </div>
       </div>
