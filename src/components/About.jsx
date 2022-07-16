@@ -10,7 +10,7 @@ const About = () => {
         <div>
           <h1 className='py-4'>A Growing Protocol Ecosystem</h1>
           <p className='py-4 text-xl'>
-            The Fiji protocol system empowers developers, liquidity providers,
+            The DeFi protocol system empowers developers, liquidity providers,
             and traders to participate in a financial marketplace that is open
             and accessible to all.
           </p>
@@ -25,7 +25,7 @@ const About = () => {
 
             <AboutCard icon={<SiFsecure size={40} />} heading='Seamless connection to any API' text='Build on a flexible framework that can retrieve data from any API, connect with existing systems, and integrate with any current or future blockchain.' />
             <AboutCard icon={<SiStrapi size={40} />} heading='Proven, ready-made solutions' text='Integrate pre-built, time-tested oracle solutions that already secure tens of billions in smart contract value for market-leading decentralized applications.' />
-            <AboutCard icon={<VscServerProcess size={40} />} heading='Secure off-chain computation' text='Use a decentralized network of Fiji Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers.' />
+            <AboutCard icon={<VscServerProcess size={40} />} heading='Secure off-chain computation' text='Use a decentralized network of DeFi Keeper nodes to automate contracts, mitigating risk of manual interventions and centralized servers.' />
           </div>
         </div>
       </div>
